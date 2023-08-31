@@ -10,4 +10,4 @@ Peguei os dados do [Global YouTube Statistics 2023](https://www.kaggle.com/datas
 
 Foi possível concluir que os países de origem com mais visualizações são Índia e Estados Unidos. As categorias mais assistidas são Música e Educação. Por fim, os canais com mais inscritos não são necessariamente os canais com mais visualizações nem com maior remuneração.
 
-[Link para no tebook no Kaggle](https://www.kaggle.com/code/anacarlaaf/dio-desafio-etl)
+[Link para notebook no Kaggle](https://www.kaggle.com/code/anacarlaaf/dio-desafio-etl)
