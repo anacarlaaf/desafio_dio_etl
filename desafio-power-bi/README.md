@@ -9,7 +9,7 @@ O desafio consistia em replicar um relatório e adicionar uma nova página com m
 - Segmentação de dados;
 - Importação de vizuais extras.
 
-## Relatórios
+## Relatório
 
 <img src="/desafio-power-bi/power-bi-pg1.jpg">
 <img src="/desafio-power-bi/power-bi-pg2.jpg">
