@@ -1,6 +1,6 @@
 # Santander Bootcamp 2023 Ciência de Dados com Python
 
-Aqui você encontrará minhas respostas aos desafios do bootcamp de Ciêncie de Dados da DIO, no qual fui selecionada como bolsista na 3ª edição do Santander Bootcamp.
+Aqui você encontrará minhas respostas aos desafios do bootcamp de Ciência de Dados da DIO, no qual fui selecionada como bolsista na 3ª edição do Santander Bootcamp.
 
 ## Aprendizados:
 
